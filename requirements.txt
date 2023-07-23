@@ -1,4 +1,4 @@
-ipynwidgets
+
 notebook
 ensure
 py-youtube
